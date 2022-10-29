@@ -4,6 +4,7 @@
     "hardhat": "^2.11.2"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
     "custom-env": "^2.0.1"
   }
 }
